@@ -1,0 +1,1 @@
+This is a multiple choice question anserwing system where the questions and their answers are pre-defined by the quiz master. After the program is run the user will be show the questions and their options. Based on their knowledge they need to answer them and a score will be reflected at the end to the user.
